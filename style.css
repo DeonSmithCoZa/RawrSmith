@@ -7,3 +7,9 @@ body {
 h1 {
   font-family: 'Kanit', sans-serif;
 }
+
+.social-links svg {
+  width: 48px;
+  height: 48px;
+  fill: #363636;
+}
